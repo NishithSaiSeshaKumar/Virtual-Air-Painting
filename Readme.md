@@ -56,17 +56,8 @@ python air_painting.py
 - `air_painting.py` — Main script that runs the virtual paint application.
 - No additional configuration files are required.
 
-## 📸 Example Output
-
-> 👆 A webcam window appears where you draw in the air, and a semi-transparent painting trail follows your index finger.
 
 ## 📌 Notes
 
 - **Performance Tip:** Ensure good lighting and keep your hand fully visible to the camera for best accuracy.
 - The current setup supports one hand at a time and is optimized for basic drawing.
-
-## 🧠 Future Improvements
-
-- Add GUI-based color selection.
-- Recognize more gestures (e.g., open palm to clear).
-- Save your artwork with a hotkey.
